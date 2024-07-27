@@ -6,10 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+#### 基于 HTML 标签的注释
 
-I'm a postgraduate student from [School of Urban Planning and Design](https://urban.pkusz.edu.cn/), [Peking University](https://www.pku.edu.cn/), majoring in Geography. 
+<!-- I'm a postgraduate student from [School of Urban Planning and Design](https://urban.pkusz.edu.cn/), [Peking University](https://www.pku.edu.cn/), majoring in Geography. 
 
 Currently, I strive to address the issues of long-term spatiotemporal variations of vegetation and their response to climate change and human activity in urban settings. My research primarily relies on remote sensing data (e.g., Landsat), together with a variety of other data sources including land cover, nighttime light, human footprint and meteorological dataset. A series of analytical modeling such as spatiotemporal statistics and machine learning are employed in my research.
+ -->
+
 
 A data-driven personal website
 ======
